@@ -32,7 +32,7 @@ class="icon-bar"></SPAN></BUTTON>       <A class="navbar-brand" href="file:///C:
 <DIV class="col-sm-4">
 <H2>关于我</H2>
 <H5>我的照片:</H5>
-<DIV class="fakeimg"><IMG width="300" height="200" src="个人简历_files/壁纸20160118174533.jpg"></DIV>
+<DIV class="fakeimg"><IMG width="300" height="200" src="个人简历_files/微信图片_20180903224237.jpg"></DIV>
 <P>关于我的介绍..</P>
 <TABLE>
   <TBODY>
